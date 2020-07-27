@@ -1,5 +1,5 @@
 # flask_api
-* This is a CRUD api 
+* This is a CRUD api. 
 * To use :- clone this repo and create a virtual environment inside the directory, you can do this without creating a virtual environment but it is recommended.
 * install the required packages by running this command "pip install -r /path/to/requirements.txt", you will find the requirement.txt when you will clone this repo.
 * After installing the packages initialize database
